@@ -6,9 +6,9 @@ const state = {
   incluirImpuestos: true
 };
 
-const XLSX_URL = 'data/inventario1.xlsx';
-const JSON_URL = 'data/productos.json';
-const PDF_LOGO_URL = 'assets/pharma-clinical-logo.png';
+const XLSX_URL = 'inventario1.xlsx';
+const JSON_URL = 'productos.json';
+const PDF_LOGO_URL = 'pharma-clinical-logo.png';
 
 const catalogoBody = document.getElementById('catalogoBody');
 const filtroDepartamento = document.getElementById('filtroDepartamento');
