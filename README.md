@@ -3,8 +3,8 @@
 Listo para publicar como sitio estático.
 
 ## Incluye
-- Carga del catálogo desde `data/inventario1.xlsx`
-- Respaldo en `data/productos.json`
+- Carga del catálogo desde `inventario1.xlsx`
+- Respaldo en `productos.json`
 - Búsqueda, filtros y cotización editable
 - Impresión y exportación JSON
 
